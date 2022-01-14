@@ -1,0 +1,32 @@
+= My knowledge base =
+    * [[Tasks]] -- things to be done _yesterday_!!!
+    * [[Project Gutenberg]] -- good books are power.
+    * [[Scratchpad]] -- various temporary stuff.
+    * [[wiki link]]
+    * [[wiki link|description]]
+    * 
+== DevOps ==
+    * [[VPS Setup]]
+    * [[Git fork]]
+    [[Lists:]]
+    * bullet list item 1
+    - bullet list item 2
+    - bullet list item 3
+        * bullet list item 4
+        * bullet list item 5
+        * bullet list item 6
+        * bullet list item 7
+    - bullet list item 8
+    - bullet list item 9
+    - [[xx]]
+    # numbered list item 1
+    # numbered list item 2
+    # numbered list item 3
+    # numbered list item 4
+
+= [[Header1]] =
+== Header2 ==
+=== Header3 ===
+==== Header4 ====
+===== Header5 =====
+
